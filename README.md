@@ -6,6 +6,8 @@ A icon collection for blockchain network, ERC20 tokens.
   - SPX("0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c", "SPX6900", "SPX")
   - WFLOW("0x5c147e74d63b1d31aa3fd78eb229b65161983b2b", "Wrapped Flow", "WFLOW"),
   - USD0("0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5", "Usual USD", "USD0"),
+  - CWBTC("0xccf4429db6322d5c611ee964527d42e5d685dd6a", "Compound Wrapped BTC", "cWBTC"),
+  - WCELO("0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a", "Wrapped Celo", "wCELO"),
 
 @TODO with IBC suffix list
   - ATOM_IBC("0x519ddeff5d142fc177d95f24952ef3d2ede530bc", "Cosmos Hub (IBC)", "ATOM"),
@@ -144,13 +146,11 @@ A icon collection for blockchain network, ERC20 tokens.
   - SNX("0xd0da9cbea9c3852c5d63a95f9abcc4f6ea0f9032", "Synthetix Network Token", "SNX"),
   - SNX_2("0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f", "Synthetix Network Token", "SNX_2"),
   - SFP("0x12e2b8033420270db2f3b328e32370cb5b2ca134", "SafePalToken", "SFP"),
-
-@TODO LIST
+  - RLUSD("0x8292bb45bf1ee4d140127049757c2e0ff06317ed", "RLUSD", "RLUSD"),
   - ZRO("0x6985884c4392d348587b19cb9eaaf157f13271cd", "LayerZero", "ZRO"),
   - SUPER("0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55", "SuperVerse", "SUPER"),
   - KSM("0xb44d6c324a6c15127f1451465f1e1dbc39142a60", "Kusama (IBC)", "KSM"),
   - MX("0x11eef04c884e24d9b7b4760e7476d06ddf797f36", "MX Token", "MX"),
-  - CWBTC("0xccf4429db6322d5c611ee964527d42e5d685dd6a", "Compound Wrapped BTC", "cWBTC"),
   - WROSE("0x26b80fbfc01b71495f477d5237071242e0d959d7", "Wrapped ROSE (Wormhole)", "wROSE"),
   - LPT("0x58b6a8a3302369daec383334672404ee733ab239", "Livepeer Token", "LPT"),
   - BLUR("0x5283d291dbcf85356a21ba090e6db59121208b44", "Blur", "BLUR"),
@@ -166,10 +166,9 @@ A icon collection for blockchain network, ERC20 tokens.
   - TRIBE("0xc7283b66eb1eb5fb86327f08e1b5816b0720212b", "Tribe", "TRIBE"),
   - PLUME("0x4c1746a800d224393fe2470c70a35717ed4ea5f1", "Plume", "PLUME"),
   - MOCA("0xf944e35f95e819e752f3ccb5faf40957d311e8c5", "Moca", "MOCA"),
-  - CHSB("0xba9d4199fab4f26efe3551d490e3821486f135ba", "SwissBorg", "CHSB"),
   - BORG("0x64d0f55cd8c7133a9d7102b13987235f486f2224", "SwissBorg Token", "BORG"),
+  - CHSB("0xba9d4199fab4f26efe3551d490e3821486f135ba", "SwissBorg", "CHSB"),
   - DEUSD("0x15700b564ca08d9439c58ca5053166e8317aa138", "deUSD", "deUSD"),
-  - WCELO("0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a", "Wrapped Celo", "wCELO"),
   - BIO("0xcb1592591996765ec0efc1f92599a19767ee5ffa", "BIO", "BIO"),
   - TURBO("0xa35923162c49cf95e6bf26623385eb431ad920d3", "Turbo", "TURBO"),
   - FLUID("0x6f40d4a6237c257fff2db00fa0510deeecd303eb", "Fluid", "FLUID"),
@@ -178,6 +177,8 @@ A icon collection for blockchain network, ERC20 tokens.
   - WOO("0x4691937a7508860f876c9c0a2a617e7d9e945d4b", "WOO", "WOO"),
   - _1ONE("0xd5cd84d6f044abe314ee7e414d37cae8773ef9d3", "Harmony ONE", "1ONE"),
   - ONE("0x799a4202c12ca952cb311598a024c80ed371a41e", "HarmonyOne", "ONE"),
+
+@TODO LIST
   - CVX("0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b", "Convex Token", "CVX"),
   - ATH("0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b", "Aethir Token", "ATH"),
   - ANKR("0x8290333cef9e6d528dd5618fb97a76f268f3edd4", "Ankr Network", "ANKR"),
@@ -270,7 +271,6 @@ A icon collection for blockchain network, ERC20 tokens.
   - WILD("0x2a3bff78b79a009976eea096a51a948a3dc00e34", "Wilder", "WILD"),
   - POND("0x57b946008913b82e4df85f501cbaed910e58d26c", "Marlin POND", "POND"),
   - IOST("0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab", "IOSToken", "IOST"),
-  - RLUSD("0x8292bb45bf1ee4d140127049757c2e0ff06317ed", "RLUSD", "RLUSD"),
   - API3("0x0b38210ea11411557c13457d4da7dc6ea731b88a", "API3", "API3"),
   - BMC("0x986ee2b944c42d017f52af21c4c69b84dbea35d8", "BitMartToken", "BMC"),
   - XPR("0xd7efb00d12c2c13131fd319336fdf952525da2af", "Proton", "XPR"),
