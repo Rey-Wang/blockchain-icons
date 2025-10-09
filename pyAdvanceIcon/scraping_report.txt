@@ -1,0 +1,103 @@
+
+================================================================================
+📊 TOKEN ICON SCRAPING REPORT
+================================================================================
+
+📋 Total processed: 86
+✅ Successfully downloaded: 63
+📁 Already existed: 3
+❌ Not found: 20
+💥 Download failed: 0
+📈 Success rate: 73.3% (new downloads)
+📊 Coverage rate: 76.7% (total)
+
+================================================================================
+
+📝 Detailed Results:
+
+✅ ZRC             | already_exists       | 0xfd418e42783382e86ae91e445406600ba144d162
+✅ APFC            | already_exists       | 0x8ed955a2b7d2c3a17a9d05daca95e01818f8c11e
+✅ ZK              | already_exists       | 0xc71b5f631354be6853efe9c3ab6b9590f8302e81
+❌ COREUM          | not_found            | 0x9e0f65f56120fcaebe2c0675377332ec60abb1ac
+✅ TAIKO           | success              | 0x10dea67478c5f8c5e2d90e5e9b26dbe60c54d800
+❌ eBORA           | not_found            | 0x94efe52d17983e6545180fa46d14f344372e180f
+✅ CHR             | success              | 0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2
+✅ PEOPLE          | success              | 0x7a58c0be72be218b41c608b7fe7c5bb630736c71
+✅ AGLD            | success              | 0x32353a6c91143bfd6c7d363b546e62a9a2489a20
+✅ BIGTIME         | success              | 0x64bc2ca1be492be7185faa2c8835d9b824c8a194
+✅ VVS             | success              | 0x839e71613f9aa06e5701cf6de63e303616b0dde3
+✅ RLUSD           | success              | 0x8292bb45bf1ee4d140127049757c2e0ff06317ed
+✅ BMC             | success              | 0x986ee2b944c42d017f52af21c4c69b84dbea35d8
+✅ EUTBL           | success              | 0xa0769f7a8fc65e47de93797b4e21c073c117fc80
+✅ USTBL           | success              | 0xe4880249745eac5f1ed9d8f7df844792d560e750
+✅ GFI             | success              | 0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b
+✅ PROM            | success              | 0xfc82bb4ba86045af6f327323a46e80412b91b27d
+✅ PUNDIX          | success              | 0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38
+✅ DKA             | success              | 0x5dc60c4d5e75d22588fa17ffeb90a63e535efce0
+✅ VANRY           | success              | 0x8de5b80a0c1b02fe4976851d030b36122dbb8624
+✅ BANANA          | success              | 0x38e68a37e401f7271568cecaac63c6b1e19130b4
+✅ USDG            | success              | 0xe343167631d89b6ffc58b88d6b7fb0228795491d
+✅ AIAT            | success              | 0x0501b9188436e35bb10f35998c40adc079003866
+✅ USDL            | success              | 0xbdc7c08592ee4aa51d06c27ee23d5087d65adbcd
+✅ sFRAX           | success              | 0xa663b02cf0a4b149d2ad41910cb81e23e1c41c32
+✅ NPC             | success              | 0x8ed97a637a790be1feff5e888d43629dc05408f6
+✅ Pin             | success              | 0x2e44f3f609ff5aa4819b323fd74690f07c3607c4
+✅ EDU_2           | success              | 0x26aad156ba8efa501b32b42ffcdc8413f90e9c99
+✅ CARV            | success              | 0xc08cd26474722ce93f4d0c34d16201461c10aa8c
+✅ pzETH           | success              | 0x8c9532a60e0e7c6bbd2b2c1303f63ace1c3e9811
+✅ SYRUP           | success              | 0x643c4e15d7d62ad0abec4a9bd4b001aa3ef52d66
+✅ COOKIE          | success              | 0xc0041ef357b183448b235a8ea73ce4e4ec8c265f
+✅ DEVVE           | success              | 0x8248270620aa532e4d64316017be5e873e37cc09
+✅ PYR             | success              | 0x430ef9263e76dae63c84292c3409d61c598e9682
+✅ MAGIC           | success              | 0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a
+❌ WPCI            | not_found            | 0x3c2a309d9005433c1bc2c92ef1be06489e5bf258
+✅ pepecoin        | success              | 0xa9e8acf069c58aec8825542845fd754e41a9489a
+✅ TON             | success              | 0x2be5e8c109e2197d077d13a82daead6a9b3433c5
+❌ SLG             | not_found            | 0xfc0b60e0df5dc9d4b72d957ca2d251cee308019a
+❌ AEUR            | not_found            | 0xa40640458fbc27b6eefedea1e9c9e17d4cee7a21
+✅ EURCV           | success              | 0x5f7827fdeb7c20b443265fc2f40845b715385ff2
+✅ EURt            | success              | 0xc581b735a1688071a1746c968e0798d642ede491
+❌ EURI            | not_found            | 0x9d1a7a3191102e9f900faa10540837ba84dcbae7
+✅ ZUSD            | success              | 0xc56c2b7e71b54d38aab6d52e94a04cbfa8f604fa
+✅ IDRT            | success              | 0x998ffe1e43facffb941dc337dd0468d52ba5b48a
+✅ MNEE            | success              | 0x8ccedbae4916b79da7f3f612efb2eb93a2bfd6cf
+✅ VCHF            | success              | 0x79d4f0232a66c4c91b89c76362016a1707cfbf4f
+✅ WUSD            | success              | 0x7cd017ca5ddb86861fa983a34b5f495c6f898c41
+✅ OUSD            | success              | 0x2a8e1e676ec238d8a992307b495b45b3feaa5e86
+❌ VEUR            | not_found            | 0x6ba75d640bebfe5da1197bb5a2aff3327789b5d3
+✅ WBT             | success              | TFptbWaARrWTX5Yvy3gNG5Lm8BmhPx82Bt
+❌ FISH            | not_found            | TBXVmYApySCRgqPfAYu9ors4dA7URQ2aET
+❌ BET             | not_found            | TWGZ7HnAhZkvxiT89vCBSd6Pzwin5vt3ZA
+❌ DICE            | not_found            | THvZvKPLHKLJhEFYKiyqj6j8G8nGgfg7ur
+❌ VCOIN           | not_found            | TNisVGhbxrJiEHyYUMPxRzgytUtGM7vssZ
+❌ TWJ             | not_found            | TNq5PbSssK5XfmSYU4Aox4XkgTdpDoEDiY
+❌ vena            | not_found            | TUL5yxRKeSWvceLZ3BSU5iNJcQmNxkWayh
+❌ DRS             | not_found            | TKBURAzYP6hwcRWBzqZvqww2PZuBm5Lev7
+✅ USDCE           | success              | 0xf1815bd50389c46847f0bda824ec8da914045d14
+❌ WIP             | not_found            | 0x1514000000000000000000000000000000000000
+✅ weETH.base      | success              | 0x04c0599ae5a44757c0af6f9ec3b93da8976c150a
+✅ sUSDS           | success              | 0x5875eee11cf8398102fdad704c9e96607675467a
+❌ sUSDC           | not_found            | 0x3128a0f7f0ea68e7b7c9b00afa7e41045828e858
+✅ cbBTC           | success              | 0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf
+❌ TRUMP           | not_found            | 0xc27468b12ffa6d714b1b5fbc87ef403f38b82ad4
+❌ WTRUMP          | not_found            | 0xc05ec5235ce6050375adce1f86bbec949c3c366f
+✅ LBTC            | success              | 0xecac9c5f704e954931349da37f60e39f515c11c1
+✅ SolvBTC         | success              | 0x3b86ad95859b6ab773f55f8d94b4b9d443ee931f
+✅ VIRTUAL         | success              | 0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b
+✅ clBTC           | success              | 0x8d2757ea27aabf172da4cca4e5474c76016e3dc5
+❌ WPENGU          | not_found            | 0xbcb8209c3c482a46dd9a5e7bc06e8cfb04670477
+✅ cgETH.hashkey   | success              | 0xf587b7116879a529353cc71ee959cd69fd5cae48
+✅ KAITO           | success              | 0x98d0baa52b2d063e780de12f615f963fe8537553
+✅ MORPHO          | success              | 0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842
+✅ ZRO             | success              | 0x6985884c4392d348587b19cb9eaaf157f13271cd
+✅ eBTC            | success              | 0x657e8c867d8b37dcc18fa4caead9c45eb088c642
+✅ PRIME           | success              | 0xfa980ced6895ac314e7de34ef1bfae90a5add21b
+✅ superOETHb      | success              | 0xdbfefd2e8460a6ee4955a68582f85708baea60a3
+✅ LsETH           | success              | 0xb29749498954a3a821ec37bde86e386df3ce30b6
+✅ MOCA            | success              | 0x2b11834ed1feaed4b4b3a86a6f571315e25a884d
+✅ BIO             | success              | 0x226a2fa2556c48245e57cd1cba4c6c9e67077dd2
+✅ FAI             | success              | 0xb33ff54b9f7242ef1593d2c9bcd8f9df46c77935
+✅ MAG7.ssi        | success              | 0x9e6a46f294bb67c20f1d1e7afb0bbef614403b55
+✅ Base            | success              | 0xb3b32f9f8827d4634fe7d973fa1034ec9fddb3b3
+❌ AnzBond         | not_found            | 0xa87c9808c0ebe20a1427b5c769623c77201f6f4d
+✅ SKITTEN         | success              | 0x4b6104755afb5da4581b81c552da3a25608c73b8
