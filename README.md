@@ -178,7 +178,7 @@ A icon collection for blockchain network, ERC20 tokens.
   - _1ONE("0xd5cd84d6f044abe314ee7e414d37cae8773ef9d3", "Harmony ONE", "1ONE"),
   - ONE("0x799a4202c12ca952cb311598a024c80ed371a41e", "HarmonyOne", "ONE"),
 
-@TODO LIST
+
   - CVX("0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b", "Convex Token", "CVX", 18, 4707908721736540861L),
   - ATH("0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b", "Aethir Token", "ATH", 18, -3651573188864879873L),
   - ANKR("0x8290333cef9e6d528dd5618fb97a76f268f3edd4", "Ankr Network", "ANKR", 18, -3521713738989148657L),
@@ -417,3 +417,10 @@ A icon collection for blockchain network, ERC20 tokens.
   - B3("0xb3b32f9f8827d4634fe7d973fa1034ec9fddb3b3", "B3", "Base", 18),
   - ANZBOND("0xa87c9808c0ebe20a1427b5c769623c77201f6f4d", "Anzen USDz Bond", "AnzBond", 18),
   - SKITTEN("0x4b6104755afb5da4581b81c552da3a25608c73b8", "Ski Mask Kitten", "SKITTEN", 18),
+
+### @TODO
+  - EBORA("0x94efe52d17983e6545180fa46d14f344372e180f", "eBORA", "eBORA", 18, -83702630279547731L),
+- FISH("TBXVmYApySCRgqPfAYu9ors4dA7URQ2aET", "Fish Token", "FISH", 8, 8699339594514614542L), 
+- BET("TWGZ7HnAhZkvxiT89vCBSd6Pzwin5vt3ZA", "Bet Token", "BET", 6, 604926762408832864L), 
+
+上面这3个token的icon目前没有在任何地方找到
