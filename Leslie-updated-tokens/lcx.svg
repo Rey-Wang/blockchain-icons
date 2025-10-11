@@ -1,12 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="lcx" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#5E5F5E;}
-</style>
-<polygon class="st0" points="249.9,136.8 382.3,2 382.3,81 250.9,212.3 118.1,79.6 118.1,2 "/>
-<polygon class="st0" points="363.2,249.9 498,382.2 419,382.2 287.6,250.9 420.4,118.1 498,118.1 "/>
-<polygon class="st0" points="250.5,361.8 118.1,496.6 118.1,417.6 249.5,286.2 382.3,419 382.3,496.6 "/>
-<polygon class="st0" points="137.3,248.6 2.5,116.3 81.5,116.3 212.8,247.7 80.1,380.5 2.5,380.5 "/>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="200" height="200" fill="#DDDDDD"/>
+<path d="M99.96 54.7201L152.92 0.800049V32.4L100.36 84.9201L47.24 31.84V0.800049L99.96 54.7201Z" fill="#5E5F5E"/>
+<path d="M145.28 99.96L199.2 152.88H167.6L115.04 100.36L168.16 47.24H199.2L145.28 99.96Z" fill="#5E5F5E"/>
+<path d="M100.2 144.72L47.24 198.64V167.04L99.8 114.48L152.92 167.6V198.64L100.2 144.72Z" fill="#5E5F5E"/>
+<path d="M54.92 99.44L1 46.52H32.6L85.12 99.08L32.04 152.2H1L54.92 99.44Z" fill="#5E5F5E"/>
 </svg>
