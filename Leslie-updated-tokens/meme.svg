@@ -1,46 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" shape-rendering="crispEdges"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 13 13"
-	 style="enable-background:new 0 0 13 13;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#451834;}
-	.st1{fill:#A1472A;}
-	.st2{fill:#FFE84F;}
-	.st3{fill:#E39400;}
-</style>
-<g>
-	<path class="st0" d="M5,1c1.6,0,3.4,0,5,0V0C7.7,0,5.3,0,3,0v1C3.5,1,4.5,1,5,1z"/>
-	<rect x="2" y="1" class="st0" width="1" height="1"/>
-	<rect x="3" y="1" class="st1" width="1" height="1"/>
-	<path class="st2" d="M8,1C6.7,1,5.3,1,4,1v1c1.9,0,4.1,0,6,0V1C9.5,1,8.5,1,8,1z"/>
-	<rect x="10" y="1" class="st0" width="1" height="1"/>
-	<rect x="1" y="2" class="st0" width="1" height="1"/>
-	<rect x="2" y="2" class="st1" width="1" height="1"/>
-	<rect x="3" y="2" class="st2" width="1" height="1"/>
-	<rect x="9" y="2" class="st1" width="1" height="1"/>
-	<rect x="10" y="2" class="st2" width="1" height="1"/>
-	<rect x="11" y="2" class="st0" width="1" height="1"/>
-	<path class="st1" d="M10,4c0,1.9,0,4.1,0,6h1c0-2.3,0-4.7,0-7h-1V4z"/>
-	<path class="st0" d="M12,3c0,2.3,0,4.7,0,7h1c0-2.3,0-4.7,0-7H12z"/>
-	<path class="st1" d="M9,7c0-0.9,0-2.1,0-3C8.5,4,7.5,4,7,4v1H6V4C5.5,4,4.5,4,4,4c0,1.6,0,3.4,0,5h1c0-0.5,0-1.5,0-2h1v1h1V7h1
-		c0,0.5,0,1.5,0,2h1C9,8.5,9,7.5,9,7z"/>
-	<path class="st0" d="M1,8c0-1.6,0-3.4,0-5H0c0,2.3,0,4.7,0,7h1C1,9.5,1,8.5,1,8z"/>
-	<path class="st2" d="M3,8c0-1.6,0-3.4,0-5H2c0,2.3,0,4.7,0,7h1C3,9.5,3,8.5,3,8z"/>
-	<path class="st3" d="M10,8c0-1.6,0-3.4,0-5H9V2C7.4,2,5.6,2,4,2v1H3c0,2.3,0,4.7,0,7h1v1c1.6,0,3.4,0,5,0v-1h1C10,9.5,10,8.5,10,8z
-		 M8,9c0-0.5,0-1.5,0-2H7v1H6V7H5c0,0.5,0,1.5,0,2H4c0-1.6,0-3.4,0-5c0.5,0,1.5,0,2,0v1h1V4c0.5,0,1.5,0,2,0c0,1.6,0,3.4,0,5H8z"/>
-	<path class="st2" d="M12,8c0-1.6,0-3.4,0-5h-1c0,2.3,0,4.7,0,7h1C12,9.5,12,8.5,12,8z"/>
-	<path class="st1" d="M2,9c0-1.9,0-4.1,0-6H1c0,2.3,0,4.7,0,7h1V9z"/>
-	<rect x="1" y="10" class="st0" width="1" height="1"/>
-	<rect x="2" y="10" class="st1" width="1" height="1"/>
-	<rect x="3" y="10" class="st2" width="1" height="1"/>
-	<rect x="9" y="10" class="st1" width="1" height="1"/>
-	<rect x="10" y="10" class="st2" width="1" height="1"/>
-	<rect x="11" y="10" class="st0" width="1" height="1"/>
-	<rect x="2" y="11" class="st0" width="1" height="1"/>
-	<rect x="3" y="11" class="st1" width="1" height="1"/>
-	<path class="st2" d="M9,11c-1.6,0-3.4,0-5,0v1c1.9,0,4.1,0,6,0v-1H9z"/>
-	<rect x="10" y="11" class="st0" width="1" height="1"/>
-	<path class="st0" d="M8,12c-1.6,0-3.4,0-5,0v1c2.3,0,4.7,0,7,0v-1C9.5,12,8.5,12,8,12z"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" fill="currentColor" viewBox="0 0 200 200">
+	<g clip-path="url(#a)">
+		<path fill="#451834" d="M76.923 15.385h76.923V0H46.154v15.385h30.769Zm-30.769 0H30.769v15.384h15.385V15.385Z"/>
+		<path fill="#A1472A" d="M61.538 15.385H46.154v15.384h15.384V15.385Z"/>
+		<path fill="#FFE84F" d="M123.077 15.385H61.539v15.384h92.307V15.385h-30.769Z"/>
+		<path fill="#451834" d="M169.231 15.385h-15.385v15.384h15.385V15.385ZM30.77 30.769H15.384v15.385h15.384V30.769Z"/>
+		<path fill="#A1472A" d="M46.154 30.769H30.769v15.385h15.385V30.769Z"/>
+		<path fill="#FFE84F" d="M61.538 30.769H46.154v15.385h15.384V30.769Z"/>
+		<path fill="#A1472A" d="M153.846 30.769h-15.384v15.385h15.384V30.769Z"/>
+		<path fill="#FFE84F" d="M169.231 30.769h-15.385v15.385h15.385V30.769Z"/>
+		<path fill="#451834" d="M184.615 30.769h-15.384v15.385h15.384V30.769Z"/>
+		<path fill="#A1472A" d="M153.846 61.538v92.308h15.385V46.154h-15.385v15.384Z"/>
+		<path fill="#451834" d="M184.615 46.154v107.692H200V46.154h-15.385Z"/>
+		<path fill="#A1472A" d="M138.462 107.692V61.539h-30.77v15.384H92.308V61.54h-30.77v76.923h15.385v-30.77h15.385v15.385h15.384v-15.385h15.385v30.77h15.385v-30.77Z"/>
+		<path fill="#451834" d="M15.385 123.077V46.154H0v107.692h15.385v-30.769Z"/>
+		<path fill="#FFE84F" d="M46.154 123.077V46.154H30.769v107.692h15.385v-30.769Z"/>
+		<path fill="#E39400" d="M153.846 123.077V46.154h-15.385V30.769H61.538v15.385H46.154v107.692h15.384v15.385h76.923v-15.385h15.385v-30.769Zm-30.769 15.384v-30.769h-15.385v15.385H92.308v-15.385H76.923v30.769H61.538V61.538h30.77v15.385h15.384V61.538h30.769v76.923h-15.384Z"/>
+		<path fill="#FFE84F" d="M184.615 123.077V46.154h-15.384v107.692h15.384v-30.769Z"/>
+		<path fill="#A1472A" d="M30.77 138.461V46.154H15.384v107.692h15.384v-15.385Z"/>
+		<path fill="#451834" d="M30.77 153.846H15.384v15.385h15.384v-15.385Z"/>
+		<path fill="#A1472A" d="M46.154 153.846H30.769v15.385h15.385v-15.385Z"/>
+		<path fill="#FFE84F" d="M61.538 153.846H46.154v15.385h15.384v-15.385Z"/>
+		<path fill="#A1472A" d="M153.846 153.846h-15.384v15.385h15.384v-15.385Z"/>
+		<path fill="#FFE84F" d="M169.231 153.846h-15.385v15.385h15.385v-15.385Z"/>
+		<path fill="#451834" d="M184.615 153.846h-15.384v15.385h15.384v-15.385ZM46.154 169.231H30.769v15.385h15.385v-15.385Z"/>
+		<path fill="#A1472A" d="M61.538 169.231H46.154v15.385h15.384v-15.385Z"/>
+		<path fill="#FFE84F" d="M138.462 169.231H61.539v15.385h92.307v-15.385h-15.384Z"/>
+		<path fill="#451834" d="M169.231 169.231h-15.385v15.385h15.385v-15.385Zm-46.154 15.384H46.154V200h107.692v-15.385h-30.769Z"/>
+	</g>
+	<defs>
+		<clipPath id="a">
+			<path fill="#fff" d="M0 0h200v200H0z"/>
+		</clipPath>
+	</defs>
 </svg>

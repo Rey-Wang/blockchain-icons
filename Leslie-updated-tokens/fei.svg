@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" baseProfile="tiny" id="FEI" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" viewBox="0 0 500 500" overflow="visible" xml:space="preserve">
-<circle fill="#22996E" cx="250" cy="250" r="250"/>
-<path fill="#FFFFFF" d="M250,361.4H113.2c-18.5,0-29.7-20.5-19.7-36.1l77.8-121.4c5.7-9,15.7-14.4,26.3-14.4h104.8
-	c10.6,0,20.6,5.4,26.3,14.4l77.8,121.4c10,15.6-1.2,36.1-19.7,36.1H250z"/>
-<path fill="#FFFFFF" d="M264,82.1l32.7,50c6.8,10.4-0.7,24.2-13.1,24.2H217c-12.5,0-20-14-12.9-24.4l33.9-50
-	C244.2,72.7,257.9,72.8,264,82.1z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" fill="currentColor" viewBox="0 0 200 200">
+	<g clip-path="url(#a)">
+		<path fill="#22996E" d="M100 200c55.228 0 100-44.772 100-100S155.228 0 100 0 0 44.772 0 100s44.772 100 100 100Z"/>
+		<path fill="#fff" d="M100 144.56H45.28c-7.4 0-11.88-8.2-7.88-14.44l31.12-48.56c2.28-3.6 6.28-5.76 10.52-5.76h41.92c4.24 0 8.24 2.16 10.52 5.76l31.12 48.56c4 6.24-.48 14.44-7.88 14.44H100Zm5.6-111.72 13.08 20c2.72 4.16-.28 9.68-5.24 9.68H86.8c-5 0-8-5.6-5.16-9.76l13.56-20c2.48-3.68 7.96-3.64 10.4.08Z"/>
+	</g>
+	<defs>
+		<clipPath id="a">
+			<path fill="#fff" d="M0 0h200v200H0z"/>
+		</clipPath>
+	</defs>
 </svg>
