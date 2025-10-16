@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" fill="currentColor" viewBox="0 0 200 200">
+  <g clip-path="url(#a)">
+    <path fill="url(#b)" d="M100 199.199c54.924 0 99.448-44.524 99.448-99.448C199.448 44.828 154.924.304 100 .304 45.077.304.552 44.828.552 99.75c0 54.925 44.525 99.45 99.448 99.45Z"/>
+    <path fill="url(#c)" fill-rule="evenodd" d="M107.707 23.239H92.278v22.876H69.075c-17.005 0-30.919 13.791-30.919 30.647 0 16.856 13.914 30.648 30.92 30.648h.006v.002h61.84c8.502 0 15.459 6.896 15.459 15.324 0 8.427-6.957 15.324-15.459 15.324h-61.84v15.323h23.196v22.879h15.429v-22.879h23.215c17.005 0 30.919-13.791 30.919-30.647 0-16.856-13.914-30.648-30.919-30.648h-.008v-.002H69.075c-8.502 0-15.46-6.896-15.46-15.324s6.958-15.323 15.46-15.323h61.839V46.115h-23.207V23.239ZM69.075 153.38c-17.005 0-30.919-13.791-30.919-30.647h15.46c0 8.428 6.957 15.323 15.46 15.323v15.324Zm92.761-76.619c0-16.856-13.912-30.647-30.919-30.647v15.324c8.504 0 15.46 6.895 15.46 15.323h15.459Z" clip-rule="evenodd"/>
+  </g>
+  <defs>
+    <radialGradient id="b" cx="0" cy="0" r="1" gradientTransform="rotate(38.32 -27.566 43.883) scale(218.302)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0A0A"/>
+      <stop offset="1" stop-color="#373737"/>
+    </radialGradient>
+    <linearGradient id="c" x1="140.064" x2="39.235" y1="149.475" y2="55.552" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#F1F1F1"/>
+    </linearGradient>
+    <clipPath id="a">
+      <path fill="#fff" d="M0 0h200v200H0z"/>
+    </clipPath>
+  </defs>
+</svg>
